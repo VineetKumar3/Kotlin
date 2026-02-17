@@ -23,7 +23,7 @@ fun main(){
     val phone = Phone("Redmi", 100)
 
     phone.usePhone(3)
-    phone.charge()
+    //phone.charge()
     phone.showBattery()
 
 }
