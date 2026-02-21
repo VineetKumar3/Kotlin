@@ -20,7 +20,7 @@ fun main(){
 
 
     student1.showDetails()
-    student1.results()
+    student1.results() 
 
     student2.showDetails()
     student2.results()
